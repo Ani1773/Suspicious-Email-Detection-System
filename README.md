@@ -14,8 +14,10 @@
 The Suspicious Email Prevention and Detection System is designed to identify and block potentially harmful emails before they reach recipients. By leveraging advanced filtering techniques and real-time monitoring, this system ensures that only safe and legitimate emails are sent from your organization while providing alerts and reports on detected threats.
 
 ## Screenshot
-![Screenshot of the system interface](path/to/screenshot.png)  
-*Replace with the actual path to your screenshot.*
+![image](https://github.com/user-attachments/assets/db5be487-d0f5-49b8-bed7-ac255bad95c8)
+![image](https://github.com/user-attachments/assets/8f5f5056-537a-487b-a2d7-340b46b237f9)
+
+
 
 ## Features
 | Feature                    | Description                                                                          |
@@ -56,7 +58,7 @@ The Suspicious Email Prevention and Detection System is designed to identify and
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or support, please contact [your-email@example.com].
+For questions or support, please contact [aniruddhsolat@gmail.com].
 
 ## Acknowledgments
 - [Machine Learning Library](https://example.com) for machine learning support.
