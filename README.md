@@ -1,4 +1,4 @@
-# Suspicious Email Prevention and Detection System
+# Suspicious Email Detection and Prevention  System
 
 ## Table of Contents
 - [Overview](#overview)
